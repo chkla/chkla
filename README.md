@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 👨‍🔬 Associated Researcher @ University of Mannheim
 - ✍️ Writing Coach @ FernUni-Hagen
