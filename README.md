@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋, I'm Christopher
 
 - 👨‍🔬 PhD student @ University of Mannheim
 - 🚀 co-organizer [tada.cool](tada.cool)
