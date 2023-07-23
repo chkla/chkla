@@ -3,7 +3,7 @@
 - 👨‍🔬 PhD student @ University of Mannheim
 - 🚀 co-organizer [tada.cool](tada.cool)
 - ✍️ writing coach @ FernUni-Hagen
-- 🤗 research interests: rhetoric, framing, populism, argument mining and academic teaching
+- 🤗 research interests: NLP and Computational Political Science
 - 🎓 MSc CS and MA PolSci @ TU Darmstadt
 - 👀 [klamm.ai](https://chkla.github.io/gitPage/)
 - 📫 christopher@klamm.info
