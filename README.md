@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Christopher
 
-- 👨‍🔬 PhD student (CSS & LLMs) @ University of Mannheim
+- 👨‍🔬 PhD student (CSS & NLP/LLMs) @ University of Mannheim
 - 🧙‍♀️ Computational Political Science Researcher @ Cologne Center of Comparative Politics
 - 🚀 co-organizer [tada.cool](http://tada.cool)
 - 🤗 open source @ BigScience, Date Provenance Initative & Expedition Aya
