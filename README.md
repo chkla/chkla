@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Christopher
 
-- 👨‍🔬 PhD student (CSS & LLMs) @ University of Mannheim & Researcher @ Cologne Center of Comparative Politics
+- 👨‍🔬 PhD student (CSS & LLMs) @ University of Mannheim
+- 🧙‍♀️ Researcher @ Cologne Center of Comparative Politics
 - 🚀 co-organizer [tada.cool](http://tada.cool)
 - 🤗 research interests: NLP and Computational Political Science
 - 🎓 MSc CS and MA PolSci @ TU Darmstadt
