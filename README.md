@@ -5,7 +5,7 @@
 - 👩🏽‍💻 Research Associate @ Oxford Computational Political Science Group
 - 🚀 co-organizer [tada.cool](http://tada.cool)
 - 🤗 open source @ BigScience, Date Provenance Initative & Expedition Aya
-- 🎓 MSc CS and MA PolSci @ TU Darmstadt
+- 🎓 MSc CS and MA PolSci @ TU Darmstadt and UZH/ETH
 - 👀 [klamm.ai](https://chkla.github.io/gitPage/)
 - 📫 christopher@klamm.info
 - 🐤 [@chklamm](https://twitter.com/chklamm)
