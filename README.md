@@ -2,7 +2,7 @@
 
 - 👨‍🔬 PhD student (CSS & NLP/LLMs) @ University of Mannheim
 - 🧙‍♀️ Computational Political Science Researcher @ Cologne Center of Comparative Politics
-- 👩🏽‍💻 Research Associate @ Oxford Computational Political Science Group
+- 👩🏽‍💻 Research Associate @ Oxford Computational Political Science Group and MZES
 - 🚀 co-organizer [tada.cool](http://tada.cool)
 - 🤗 open source @ BigScience, Date Provenance Initative & Expedition Aya
 - 🎓 MSc CS and MA PolSci @ TU Darmstadt and UZH/ETH
