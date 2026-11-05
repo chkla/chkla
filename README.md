@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Christopher
 
-- 👨‍🔬 PhD student (CSS & NLP/LLMs) @ University of Mannheim (DWS)
 - 🧙‍♀️ Computational Political Science Researcher @ LMU Munich
 - 👩🏽‍💻 AI Infrastructure Research @ MZES Mannheim 
 - 👩🏽‍💻 Research Associate (2025-2026) and Research Lead (2026-2027) @ Oxford Computational Political Science Group and MZES
+- 👨‍🔬 PhD student (CSS & NLP/LLMs) @ University of Mannheim (DWS)
 - 🚀 co-organizer [tada.cool](http://tada.cool)
 - 🤗 open source @ BigScience (HuggingFace), Date Provenance Initative (MIT et al.) & Expedition Aya (Cohere labs)
 - 🎓 MSc CS and MA PolSci @ TU Darmstadt and UZH/ETH
